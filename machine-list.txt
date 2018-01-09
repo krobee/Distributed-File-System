@@ -1,0 +1,10 @@
+earth:8082
+mars:8082
+honolulu:8082
+boise:8082
+saturn:8082
+denver:8082
+hartford:8082
+phoenix:8082
+mercury:8082
+neptune:8082
